@@ -1,0 +1,30 @@
+.description{
+  white-space: 5px;
+  margin-top: 15px;
+}
+
+.updateProfile_button{
+  margin :20px 0px;
+  height: 30px;
+}
+
+.userName{
+  font-weight: 600;
+  font-size: large;
+}
+
+.email{
+  font-weight: 600;
+  font-size: large;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 80%;
+  margin-bottom: 40px;
+}
