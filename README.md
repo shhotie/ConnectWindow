@@ -15,4 +15,7 @@ their alumni's. It would provide users to upload post's, update their profile's 
 ============================================================================================
 **AboutPage**
 
+![image](https://user-images.githubusercontent.com/113897763/232592132-b5aedbab-3b0a-4b7e-9c8d-38a3a67846b4.png)
+
+
 
